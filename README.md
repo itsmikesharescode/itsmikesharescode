@@ -14,4 +14,28 @@
     <p>Svelte</p>
 </div>
 
+<div
+    style=""
+    >
+    <img 
+        src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
+        alt="svelte-icon" 
+        class="" 
+        style="width: 60px; height: 60px;"
+    />
+    <p>Svelte</p>
+</div>
+
+<div
+    style=""
+    >
+    <img 
+        src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
+        alt="svelte-icon" 
+        class="" 
+        style="width: 60px; height: 60px;"
+    />
+    <p>Svelte</p>
+</div>
+
 
