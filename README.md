@@ -2,7 +2,11 @@
 <p>A Jr Web Developer, Focus in Svelte, SvelteKit</p>
 
 
-
-<img src="https://www.svgrepo.com/show/354414/svelte.svg" alt="svelte-icon" class="" size="200px"/>
+<img 
+    src="https://www.svgrepo.com/show/354414/svelte.svg" 
+    alt="svelte-icon" 
+    class="" 
+    style="width: 200px; height: 200px;"
+/>
 
 
