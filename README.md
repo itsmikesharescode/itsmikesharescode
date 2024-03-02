@@ -1,18 +1,20 @@
-<h1>I am Eviota, Mike John B.</h1>
-<p>A Jr Web Developer, Focus in Svelte, SvelteKit</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Project Title</title>
+    <!-- Add any additional meta tags or stylesheets here -->
+</head>
+<body>
 
+<!-- Your project content goes here -->
 
-<div
-    style="display: flex; gap: 1rem;"
-    >
-    <img 
-        src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
-        alt="svelte-icon" 
-        class="" 
-        style="width: 60px; height: 60px;"
-    />
-    <p>Svelte</p>
-</div>
+<h1>Your Project Title</h1>
 
+<p>This is a brief description of your project.</p>
 
+<!-- Add more content as needed -->
 
+</body>
+</html>
