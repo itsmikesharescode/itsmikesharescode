@@ -11,7 +11,6 @@
         class="" 
         style="width: 60px; height: 60px;"
     />
-
     <p>Svelte</p>
 </div>
 
