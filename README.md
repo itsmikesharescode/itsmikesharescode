@@ -6,7 +6,7 @@
     src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
     alt="svelte-icon" 
     class="" 
-    style="width: 100px; height: 100px;"
+    style="width: 60px; height: 60px;"
 />
 
 
