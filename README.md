@@ -7,13 +7,9 @@
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript-icon" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript-icon" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354416/svelte-icon.svg" alt="svelte-icon" width="40" height="40"/> 
-
-  <img src="" alt="firebase" width="40" height="40"/> 
-
-  <img src="" alt="firebase" width="40" height="40"/> 
-
-  <img src="" alt="firebase" width="40" height="40"/> 
-
+  <img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="react-icon" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind-icon" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase-icon" width="40" height="40"/> 
   <img src="" alt="firebase" width="40" height="40"/> 
    
 </p>
