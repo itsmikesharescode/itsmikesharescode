@@ -3,7 +3,7 @@
 
 
 <img 
-    src="https://www.svgrepo.com/show/354414/svelte.svg" 
+    src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
     alt="svelte-icon" 
     class="" 
     style="width: 200px; height: 200px;"
