@@ -3,4 +3,6 @@
 
 
 
-<img src="https://www.svgrepo.com/show/354414/svelte.svg" alt="svelte-icon" class=""/>
+<img src="https://www.svgrepo.com/show/354414/svelte.svg" alt="svelte-icon" class="" size="200px"/>
+
+
