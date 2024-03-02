@@ -3,7 +3,7 @@
 
 
 <div
-    style="display: flex; flex-direction: row; gap: 1rem;"
+    style="display: flex; gap: 1rem;"
     >
     <img 
         src="https://www.svgrepo.com/show/354416/svelte-icon.svg" 
