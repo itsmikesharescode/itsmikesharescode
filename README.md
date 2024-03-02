@@ -2,9 +2,9 @@
 <p>Focus in SvelteKit</p>
 
 <p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="css3" width="40" height="40"/> 
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
