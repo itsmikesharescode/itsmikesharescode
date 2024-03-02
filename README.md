@@ -10,6 +10,6 @@
   <img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="react-icon" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind-icon" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase-icon" width="40" height="40"/> 
-  <img src="" alt="firebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase-icon" width="40" height="40"/> 
    
 </p>
