@@ -12,5 +12,8 @@
   <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase-icon" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase-icon" width="40" height="40"/> 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark" height=200 align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact" height=200 align="center" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark" height=200 align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact" height=200 align="center" />
+</p>
