@@ -1,4 +1,4 @@
-<h1 style="color:blue;">Junior Web Developer</h1>
+<h1 style="color🔺;">Junior Web Developer</h1>
 <p>Focus in SvelteKit</p>
 
 <p align="left"> 
