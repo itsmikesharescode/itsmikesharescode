@@ -13,5 +13,6 @@
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase-icon" width="40" height="40"/> 
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark)
+   <img src="https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark" height=200 align="center" />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact)
 </p>
