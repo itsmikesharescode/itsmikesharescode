@@ -13,4 +13,5 @@
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase-icon" width="40" height="40"/> 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode)](https://github.com/itsmikesharescode/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact)
 </p>
