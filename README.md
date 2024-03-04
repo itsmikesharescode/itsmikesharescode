@@ -15,5 +15,4 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark" height=200 align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact" height=200 align="center" />
 </p>
