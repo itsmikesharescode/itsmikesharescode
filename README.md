@@ -1,4 +1,4 @@
-<h1 style="color:red;">Junior Web Developer</h1>
+<h1">Junior Web Developer</h1>
 <p>Focus in SvelteKit</p>
 
 <p align="left"> 
@@ -17,3 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsmikesharescode&show_icons=true&theme=dark" height=200 align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmikesharescode&layout=compact" height=200 align="center" />
 </p>
+
+<style>
+  .h1{
+    text-color: red;
+  }
+</style>
