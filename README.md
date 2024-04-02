@@ -1,4 +1,4 @@
-<h1>Junior Web Developer</h1>
+<h1>HELLO WEIRD!</h1>
 <p>Focus in SvelteKit</p>
 
 <p align="left"> 
